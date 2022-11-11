@@ -1,0 +1,2 @@
+# Kalkulacija-presecne-vrednosti
+kalkulacija
